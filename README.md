@@ -95,6 +95,8 @@ with a focus on education technology, real-time systems, and scalable user exper
 
 GitHub: https://github.com/sonimishraa
 
+LinkedIn: https://www.linkedin.com/in/soni-mishra-android-dev/
+
 Always open to collaboration on:
 - Android projects
 - AI/LLM systems
